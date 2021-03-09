@@ -1,1 +1,3 @@
-# python_bsu
+# MMF Python course
+
+BSU MMF Python course labs
